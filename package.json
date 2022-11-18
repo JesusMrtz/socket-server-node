@@ -1,0 +1,23 @@
+{
+  "name": "websocket-server",
+  "version": "0.0.1",
+  "description": "Creación de un servidor para sockets",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJs",
+    "Socket"
+  ],
+  "author": "Jesús Martínez Torres",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  }
+}
